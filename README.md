@@ -13,6 +13,7 @@ INSTRUÇÕES PARA BAIXAR A APLICAÇÃO:
     MatchMania -> jogodamemoriaapp -> src -> main -> java -> com -> exemple -> jogodamemoriaapp. Clique duas vezes no arquivo "JogodamemoriaappApplication" e execute-o.
 
 INFORMAÇÕES ADICIONAIS:
+
   DOCENTE RESPONSÁVEL PELA ORIENTAÇÃO DO PROJETO:
   Prof. Dr. Vinícius Santos Andrade
   
@@ -20,7 +21,8 @@ INFORMAÇÕES ADICIONAIS:
   Caio Daniel Pereira da Silva, Camily Ferreira, Elton Antônio Vitoretti Junior, Gabriel Biliassi Ferreira dos Santos, Letícia Ricardo Hernandes e Rafael Barbosa do Nascimento.
 
 REFERÊNCIAS:
-  O projeto foi realizado na IDE IntelliJ IDEA Community Edition. Todas as fotos utilizadas foram obtidas do site Pixabay.
+  O projeto foi realizado na IDE IntelliJ IDEA Community Edition. Todas as fotos utilizadas foram obtidas pelo site Pixabay.
 
   IntelliJ - https://www.jetbrains.com/pt-br/idea/
+  
   Pixabay - https://pixabay.com/pt/
