@@ -3,7 +3,7 @@ INSTRUÇÕES PARA BAIXAR A APLICAÇÃO:
   COMO BAIXAR A APLICAÇÃO:
     Baixe o arquivo ".zip" e extraia-o.
 
-  COMO BAIXAR O BANCO DE DADOS:
+  COMO IMPORTAR O BANCO DE DADOS:
     Abra o MySQL Workbench, entre (ou crie pelo simbolo de "+") na conexão "Local instance MySQL80" com o usuário e conexão definidos, respectivamente, como: "root" e "localhost:3306".
     Vá em "Data Import/Restore", depois clique em na opção "Import from Self-Contained File" e selecione o arquivo .sql que veio junto à aplicação. Vá para a aba "Import Progress" e
     depois clique no botão "Start Import". Verifique se na aba "Schemas" consta um banco de dados com o nome "jogodamemoriaapp" e a tabela "jogador".
@@ -11,6 +11,7 @@ INSTRUÇÕES PARA BAIXAR A APLICAÇÃO:
   COMO EXECUTAR APLICAÇÂO:
     Abra a IDE que você utiliza (é recomendado utilizar a IDE "IntelliJ") e selecione a pasta extraida do arquivo ".zip", naveque pela IDE para as seguintes pastas:
     MatchMania -> jogodamemoriaapp -> src -> main -> java -> com -> exemple -> jogodamemoriaapp. Clique duas vezes no arquivo "JogodamemoriaappApplication" e execute-o.
+
 
 INFORMAÇÕES ADICIONAIS:
 
